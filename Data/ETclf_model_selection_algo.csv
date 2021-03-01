@@ -1,0 +1,11 @@
+,means,stds,params
+0,0.4424061802621971,0.00856340004856606,"{'ETclf__criterion': 'entropy', 'ETclf__max_depth': 39, 'ETclf__max_features': 'log2', 'ETclf__n_estimators': 203}"
+1,0.4422403450464407,0.009628566020259178,"{'ETclf__criterion': 'entropy', 'ETclf__max_depth': 44, 'ETclf__max_features': 'auto', 'ETclf__n_estimators': 362}"
+2,0.45215633551944634,0.007432703922642327,"{'ETclf__criterion': 'entropy', 'ETclf__max_depth': 25, 'ETclf__max_features': 'log2', 'ETclf__n_estimators': 369}"
+3,0.4405884079136838,0.006349463942249168,"{'ETclf__criterion': 'entropy', 'ETclf__max_depth': 33, 'ETclf__max_features': 'log2', 'ETclf__n_estimators': 262}"
+4,0.44091775801707495,0.009334389164541955,"{'ETclf__criterion': 'gini', 'ETclf__max_depth': 45, 'ETclf__max_features': 'log2', 'ETclf__n_estimators': 81}"
+5,0.4599243846012107,0.010517296312592505,"{'ETclf__criterion': 'gini', 'ETclf__max_depth': 19, 'ETclf__max_features': 'log2', 'ETclf__n_estimators': 316}"
+6,0.4465373197480397,0.008855919188762204,"{'ETclf__criterion': 'entropy', 'ETclf__max_depth': 31, 'ETclf__max_features': 'auto', 'ETclf__n_estimators': 493}"
+7,0.47281448976667056,0.006435330989027885,"{'ETclf__criterion': 'gini', 'ETclf__max_depth': 16, 'ETclf__max_features': 'log2', 'ETclf__n_estimators': 423}"
+8,0.5086772082358,0.010427908241036704,"{'ETclf__criterion': 'gini', 'ETclf__max_depth': 10, 'ETclf__max_features': 'sqrt', 'ETclf__n_estimators': 103}"
+9,0.4442236796309313,0.009497459677506547,"{'ETclf__criterion': 'gini', 'ETclf__max_depth': 47, 'ETclf__max_features': 'log2', 'ETclf__n_estimators': 333}"

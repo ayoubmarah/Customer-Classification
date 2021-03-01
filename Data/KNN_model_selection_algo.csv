@@ -1,0 +1,11 @@
+,means,stds,params
+0,0.5053727880107282,0.0119755486434293,"{'KNN__algorithm': 'ball_tree', 'KNN__n_neighbors': 23, 'KNN__p': 4, 'KNN__weights': 'uniform'}"
+1,0.4690111989954344,0.010266368235047266,"{'KNN__algorithm': 'kd_tree', 'KNN__n_neighbors': 18, 'KNN__p': 2, 'KNN__weights': 'distance'}"
+2,0.4678571769796152,0.015179955803626516,"{'KNN__algorithm': 'brute', 'KNN__n_neighbors': 6, 'KNN__p': 3, 'KNN__weights': 'uniform'}"
+3,0.46801891749868635,0.012633619600687802,"{'KNN__algorithm': 'auto', 'KNN__n_neighbors': 16, 'KNN__p': 4, 'KNN__weights': 'distance'}"
+4,0.44719956869194916,0.009761585635132247,"{'KNN__algorithm': 'kd_tree', 'KNN__n_neighbors': 5, 'KNN__p': 2, 'KNN__weights': 'distance'}"
+5,0.47132429315298474,0.012895125021488459,"{'KNN__algorithm': 'kd_tree', 'KNN__n_neighbors': 37, 'KNN__p': 3, 'KNN__weights': 'distance'}"
+6,0.4554614381939658,0.014725987823122807,"{'KNN__algorithm': 'ball_tree', 'KNN__n_neighbors': 4, 'KNN__p': 3, 'KNN__weights': 'uniform'}"
+7,0.5103298278180043,0.006895391538398587,"{'KNN__algorithm': 'kd_tree', 'KNN__n_neighbors': 22, 'KNN__p': 1, 'KNN__weights': 'uniform'}"
+8,0.47231862199807545,0.012999138913216463,"{'KNN__algorithm': 'auto', 'KNN__n_neighbors': 6, 'KNN__p': 4, 'KNN__weights': 'uniform'}"
+9,0.5068598453569553,0.009970624240455146,"{'KNN__algorithm': 'kd_tree', 'KNN__n_neighbors': 23, 'KNN__p': 4, 'KNN__weights': 'uniform'}"
